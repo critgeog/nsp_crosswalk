@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585775895402.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1296025180",
+    "id" : "A3E804D",
+    "lastKnownWriteTime" : 1587591342,
+    "last_content_update" : 1587591342792,
+    "path" : "~/Dropbox/school/Projects/inProgress/HollowayLab/price_race_change/crosswalk.R",
+    "project_path" : "crosswalk.R",
+    "properties" : {
+        "cursorPosition" : "50,37",
+        "scrollLine" : "27",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

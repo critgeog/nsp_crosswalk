@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585593583395.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BCBD6D9C",
+    "lastKnownWriteTime" : 1587592147,
+    "last_content_update" : 1587592147231,
+    "path" : "~/Dropbox/school/Projects/inProgress/HollowayLab/price_race_change/clean_data.R",
+    "project_path" : "clean_data.R",
+    "properties" : {
+        "cursorPosition" : "70,0",
+        "scrollLine" : "59",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
